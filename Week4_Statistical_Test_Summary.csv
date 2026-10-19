@@ -1,0 +1,5 @@
+Test,Statistic,P_Value,Alpha,Decision
+Welch t-test,1.606138929139845,0.11797724104277683,0.05,Fail to reject H0
+Pearson correlation,0.9073377784205727,0.0,0.05,Reject H0
+Chi-square,186.9071712818619,1.625666700028128e-33,0.05,Reject H0
+OLS regression,3974.706172914532,0.0,0.05,Reject H0
